@@ -1,9 +1,10 @@
 import React from 'react';
+import '../styles/global.scss';
 
 const App = () => {
-    return(
-        <h1>Store</h1>
-    );
+	return (
+		<h1>Store</h1>
+	);
 }
 
 export default App;
