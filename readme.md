@@ -72,4 +72,6 @@ npm install style-loader --save
 
 npm install babel-preset-es2015
 
+npm i @babel/preset-react <- con este>
+npm install --save-dev @babel/plugin-transform-react-jsx
 
